@@ -1,0 +1,29 @@
+{
+  "name": "scl-2018-01-fe-markdown",
+  "version": "1.0.0",
+  "description": "node module link reading",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mia5391/scl-2018-01-FE-markdown.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "link",
+    "read"
+  ],
+  "author": "MK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mia5391/scl-2018-01-FE-markdown/issues"
+  },
+  "homepage": "https://github.com/Mia5391/scl-2018-01-FE-markdown#readme",
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-google": "^0.9.1"
+  }
+}
