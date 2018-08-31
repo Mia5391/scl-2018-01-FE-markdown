@@ -25,5 +25,8 @@
   "devDependencies": {
     "eslint": "^5.4.0",
     "eslint-config-google": "^0.9.1"
+  },
+  "dependencies": {
+    "commander": "^2.17.1"
   }
 }
